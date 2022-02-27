@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    right: 0;
+    left: 0;
+    padding: 0px;
+}
+body{display: flex;
+
+}
+.place{
+    text-align: center;
+    width: 16rem;
+    height: 2rem;
+    font-size: 2rem;border: 3px solid royalblue;
+
+}
+.container{
+text-align: center;
+margin: 4rem;
+width: 75rem;
+color: chartreuse;
+margin: auto;
+}
+.heading{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.btm{
+    border: 1px solid green;
+    padding: 1rem;
+}
+.icon{
+text-align: center;
+font-size: 5rem;
+width: 60rem;
+margin-top: 2rem;
+border-right: 3px solid lawngreen;
+}
+/* .btn{
+    border: 5px solid blue;
+    text-align:center;
+    width:4rem;
+    border-radius: 0.5rem;
+    margin: 1rem auto;
+    margin-top: 5rem;
+} */
+.degree{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 5rem;
+    height: 3rem;
+}
